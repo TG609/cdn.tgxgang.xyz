@@ -1,7 +1,7 @@
 [
 {
     "id": 104,
-    "title": Hotel Elephant GUI",
+    "title": "Hotel Elephant GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
     "date": "Give-Cash, Etc!",
     "slug": "yikes-eaea",
