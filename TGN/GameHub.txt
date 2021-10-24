@@ -1,5 +1,35 @@
 [
 {
+    "id": 104,
+    "title": Hotel Elephant GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
+    "date": "Give-Cash, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/900614121689591818/901716167704596530/unknown.png"
+    }  
+  },  
+{
+    "id": 103,
+    "title": "Islands GUI",
+    "excerpt": "loadstring(game:HttpGet(\"http://void-scripts.com/Scripts/islands_new.lua\", true))()",
+    "date": "Auto-Farm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/747624974466154526/901151451106131978/unknown.png"
+    }  
+  },  
+{
+    "id": 102,
+    "title": "Pet Simulator X (New)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/scriptRUs/Banana/main/PetSimulatorX.lua\", true))()",
+    "date": "Auto-Farm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/747624974466154526/901144868007579718/w4Xhzjo.png"
+    }  
+  },  
+{
     "id": 101,
     "title": "Shindo VG HUB",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub\", true))()",
