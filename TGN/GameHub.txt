@@ -582,7 +582,7 @@
   },  
    {
     "id": 44,
-    "title": "R15 Gui FE",
+    "title": "R15 Animations GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/FKAPc6Vf\", true))()",
     "date": "Free Animations FE (R15)!.",
     "slug": "yikes-eaea",
