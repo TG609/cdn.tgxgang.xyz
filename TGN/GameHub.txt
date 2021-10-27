@@ -1,5 +1,15 @@
 [
 {
+    "id": 106,
+    "title": " Dungeon Quest GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/hngamingroblox/659adbebad6a9b3a07527e5f7e446d66/raw\", true))()",
+    "date": "Kill All, Auto-Farm, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/903048006478204958/dugueon.PNG"
+    }  
+  },  
+{
     "id": 105,
     "title": "BrookHaven Script",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CJStyles123/BrookhavenRP/main/CandyFarm\", true))()",
