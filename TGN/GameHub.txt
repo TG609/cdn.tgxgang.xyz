@@ -1,7 +1,17 @@
 [
 {
+    "id": 107,
+    "title": "Trade Tower GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fireztron/Trade-Tower/main/testgui.lua\", true))()",
+    "date": "Auto-Buy, Auto-Click, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/903053658718101534/PPHAX_GUI.PNG?width=789&height=473"
+    }  
+  },  
+{
     "id": 106,
-    "title": " Dungeon Quest GUI",
+    "title": "Dungeon Quest GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://gist.githubusercontent.com/hngamingroblox/659adbebad6a9b3a07527e5f7e446d66/raw\", true))()",
     "date": "Kill All, Auto-Farm, Etc!",
     "slug": "yikes-eaea",
