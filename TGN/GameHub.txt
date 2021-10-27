@@ -20,16 +20,6 @@
     }  
   },  
 {
-    "id": 104,
-    "title": "Hotel Elephant GUI",
-    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
-    "date": "Give-Cash, Etc!",
-    "slug": "yikes-eaea",
-    "featured_image": {
-      "thumbnail": "https://cdn.discordapp.com/attachments/900614121689591818/901716167704596530/unknown.png"
-    }  
-  },  
-{
     "id": 103,
     "title": "Islands GUI",
     "excerpt": "loadstring(game:HttpGet(\"http://void-scripts.com/Scripts/islands_new.lua\", true))()",
