@@ -1,7 +1,7 @@
 [
 {
     "id": 107,
-    "title": "Trade Tower GUI",
+    "title": "Trade Tower GUI 2X",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fireztron/Trade-Tower/main/testgui.lua\", true))()",
     "date": "Auto-Buy, Auto-Click, Etc!",
     "slug": "yikes-eaea",
