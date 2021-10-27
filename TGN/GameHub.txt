@@ -2,7 +2,7 @@
 {
     "id": 105,
     "title": "BrookHaven Script",
-    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CJStyles123/BrookhavenRP/main/CandyFarm\", true))()",
     "date": "Halloween Auto-Farm!",
     "slug": "yikes-eaea",
     "featured_image": {
