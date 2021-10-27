@@ -1,5 +1,15 @@
 [
 {
+    "id": 105,
+    "title": "BrookHaven Script",
+    "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
+    "date": "Halloween Auto-Farm!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t1.rbxcdn.com/8b8c0c65e23e15574ab99f619754c0df"
+    }  
+  },  
+{
     "id": 104,
     "title": "Hotel Elephant GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://paste.ee/r/qCWa6/0\", true))()",
