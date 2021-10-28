@@ -1,5 +1,15 @@
 [
 {
+    "id": 108,
+    "title": "Lumber Tycoon 2 GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://dirtgui.xyz/Lt2.lua\", true))()",
+    "date": "Player, Wood, TP, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/903379721197346816/dirty_gui_lumber_tycoon_2.PNG"
+    }  
+  },  
+{
     "id": 107,
     "title": "Trade Tower GUI 2X",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/fireztron/Trade-Tower/main/testgui.lua\", true))()",
