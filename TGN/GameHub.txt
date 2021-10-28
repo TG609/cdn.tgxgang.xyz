@@ -1,5 +1,15 @@
 [
 {
+    "id": 109,
+    "title": "Blox Fruits JRL",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JRL-lav/Main/main/BF\", true))()",
+    "date": "Autofarm, Devil Fruit, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/786475894876536845/903398897383252018/Bloxjeje6.png"
+    }  
+  },  
+{
     "id": 108,
     "title": "Lumber Tycoon 2 GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://dirtgui.xyz/Lt2.lua\", true))()",
