@@ -1,0 +1,105 @@
+Soluciones más Comunes de TGX:
+
+Cuando lo abro me dice "TGX desactualizado o parcheado"¿que hago?
+-Para solucionar esto tenes que ir al discord o buscar el video mas reciente de The Gabloxia y volver a descargar el exploit, esto ocurre cuando se esta utilizando una version vieja del exploit.
+
+¿No me deja completar el linkvertise, que hago?
+- Proba con otro navegador como chrome, firefox, etc, esto puede ocurrir porque si usas un navegador como brave o opera tienen adblocks por defecto.
+
+¿El exploit no abre, que hago?
+- Intentar volver a instalar o tambien entrando a administrador de tareas y finalizando todos los procesos, esto suele ocurrir porque faltan algunos archivos eliminados accidentalmente o un fallo al extraer el archivo.
+
+¿Sale: no se encontro roblox o el proceso robloxplayerbeta.exe, que hago?
+- Usar el roblox de navegador, ningun exploit funciona en roblox de Microsoft.
+
+Roblox crash o no injecta ¿que hago?
+- Esperar que cargue el juego completo antes de injectar, tambien puede solucionarlo un rejoin(salirse y volver a entrar).
+
+Explicacion:
+No pasa nada cuando intento injectar,¿que hago?
+-Esto suele pasar porque no tenes los componentes necesarios para hacer que funcione el exploit.
+Es importante que sepas cuantos bits tiene tu pc, si 32 o 64,si no sabes lo digo abajo si sabes salteate esta parte.
+Para saber cuantos bits tiene tu pc vamos a darle a las teclas windows + r, la tecla windows es la tecla que esta entre el Fn y Alt.
+Se nos abrira un cuadro, escribimos "control" y le damos a aceptar.
+Buscamos la seccion "Sistema y Seguridad" y le damos click.
+Ahora buscamos la seccion que diga "Sistema" y le damos click.
+Aca nos abriria toda la informacion del sistema (procesador,memoria RAM) y el tipo de dispositivo.
+A ustedes les saldra:
+1-Sistema operativo de 32 bits, procesador x86 o x64
+2- Sistema operativo de 64 bits, procesador x64.
+Si tienen la opcion 1 su pc es de 32 bits si tienen la opcion 2 tienen 64
+Termina Explicacion.
+Links:
+Microsoft Visual C++ x86: https://aka.ms/vs/16/release/vc_redist.x86.exe
+Microsoft Visual C++ x64: https://aka.ms/vs/16/release/vc_redist.x64.exe
+DirectX Runtime Installer: https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe
+.NET Framework 4.8: https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer
+
+En los Microsoft Visual C++ instalan el que corresponda a su pc, si tienen 32 bits instalan el de x86 si tienen 64 el de x64.
+Solo tienen que instalar el que les corresponda.
+Una vez que lo hayan descargado los ejecutan y dejan que se instale, una vez hecho esto reinician la PC.
+Microsoft
+Download .NET Framework 4.8  Web Installer
+
+En los Microsoft Visual C++ instalan el que corresponda a su pc, si tienen 32 bits instalan el de x86 si tienen 64 el de x64.
+Solo tienen que instalar el que les corresponda.
+Una vez que lo hayan descargado los ejecutan y dejan que se instale, una vez hecho esto reinician la PC.
+
+Al descargar el TGX me descarga un bloc de notas, ¿que hago?
+- Si pasa esto es porque no tienen WinRar.
+Van a https://www.winrar.es/descargas y descargan la ultima version tambien viendo cual es para 32 bits y cual para 64 bits.
+
+Cuando intento usar un script del GameHub u otro no pasa nada, ¿que hago?
+- Esto puede pasar porque el script esta parcheado o ya no funciona, busca uno mas nuevo y ya.
+
+Tengo antivirus desactivados pero aun asi se siguen borrando los archivos de TGX, que hago?
+- Esto pasa porque tienen otro antivirus en la PC sin saberlo, antes de hacer todos estos pasos asegurense que esten desactivados todos sus antivirus que sepan que tienen, hecho esto seguimos.
+Para saber si tenemos otro antivirus en la PC seguiremos los siguientes pasos:
+- Abrir administrador de tareas, La forma mas facil es dando click derecho en la barra de tareas donde este vacio y dale click a donde diga "Administrador de tareas", otra forma es buscando en el buscador de windows "Administrador de tareas" y abrirlo.
+Una vez hecho esto buscaremos procesos con nombres como: "Avast","McAfree","Sa_client","Sa_Service","Santivirus","Segurazo","ByTefence","ReimageRepair", u otro.
+Una vez hecho esto buscaremos en YouTube el nombre de dicho proceso y como eliminarlo, seguimos el tutorial hasta que ya no lo tengamos mas y listo.
+Descargar WinRAR - Descarga gratuita recomendada
+Descarga WinRAR recomendada para su ordenador
+Si encontraste procesos como "SA_Client" o "SA_Service" mira este video:
+https://www.youtube.com/watch?v=HeNvfyDeNmo
+
+Al abrir el TGX Updater salta un error o mas, que hago?
+
+- Cuando pasa esto las soluciones mas comunes son reinstalar TGX o ejecutar TGX Updater como administrador, si no se soluciona reinicia la PC.
+- Otra solucion que es la mas factible es: cerrar todos los procesos de TGX desde el administrador de tareas y volver a abrirlo.
+
+Winrar me dice que no s epuedne descargar el arhicvo o descomprimirlo:Simplemente Desintalas Winrar vas a su pagina oficial lo vuelves a instalar y listo.
+
+No me deja descargar TGX y tengo el antiviruz Desactivado:
+Esta es una posible solución; Primero vas a tu panel de control luego a Apliciones y miras si entre tus Apliciones tienes una llamada "SAantivirus" Luego de instalar reiniciar tu computadora reinstalar el exploit y con esto estaría todo.
+YouTube
+Ecosistema Music
+🔴 DESINSTALAR LA MIERDA (SANTIVIRUS) SEGURAZO EN WINDOWS - Solución...
+
+Exploit eliminado
+
+Causas: Anti malwares comunes o falsos anti malwares como segurazo.
+
+Soluciones: Revisar a fondo el pc y no contar con ningun anti malware 
+activado o si se encuentran anti malwares falsos eliminarlo. 
+
+Cuando pasa esto las soluciones mas comunes son reinstalar TGX o ejecutar TGX Updater como administrador, si no se soluciona reinicia la PC.
+Otra solucion que es la mas factible es cerrar todos los procesos de TGX desde el administrador de tareas y volver a abrirlo.
+
+Si no tiene efecto el hacer todo eso si el usuario tiene anti virus como avast y estan desactivados, se recomienda
+la eliminación de estos programas ya que pueden seguir borrando archivos de TGX o otro exploit aun siendo desactivados.
+Error de que se cierra TGX al actualizar las api o iniciar el exploit
+
+Causa: Nueva update posiblemente (?)
+
+Solución: Normalmente dura bastante en iniciar y actualizar, se recomienda no hacer nada mientras el exploit actualiza o se inicia
+Como siempre se recomienda desactivar el anti virus y seguir lo mencionado anteriormente o tambien entrando
+a administrador de tareas y finalizando todos los procesos, esto suele ocurrir porque faltan algunos archivos
+eliminados accidentalmente o un fallo al extraer el archivo..
+Cuando intento usar un script del GameHub u otro no pasa nada
+
+Esto puede pasar porque el script esta parcheado o ya no funciona, busca uno mas nuevo y ya.
+
+Si esto no les funciona abrir un ticket.
+Creadores: @StinkyBreh @brunox12348
+Colaboradores: @[AFK] Gajo @[AFK] soft
