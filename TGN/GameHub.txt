@@ -36,7 +36,7 @@
     "date": "Auto-Farm, Teleport, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://omgscripts.com/wp-content/uploads/2021/10/Roblox-Script-9.png"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/905858616454705152/Roblox-Script-9.png"
     }  
   },  
 {
@@ -46,7 +46,7 @@
     "date": "Kill Aura, Auto-Farm Mob, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://omgscripts.com/wp-content/uploads/2021/10/Roblox-Script-10.png"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/905858535160692786/Roblox-Script-10.png"
     }  
   },  
 {
