@@ -1,5 +1,65 @@
 [
 {
+    "id": 116,
+    "title": "Zombie Uprising (Script)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/toskaman/fb/master/MSDOS\", true))()",
+    "date": "Instakill, Kill Aura, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t2.rbxcdn.com/3033bce29805373531e54af72fb560c6"
+    }  
+  },  
+{
+    "id": 115,
+    "title": "Anime Battle Arena (Script)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/lmmake/LuaThings/main/ABA%20Coin%20Farm\", true))()",
+    "date": "Coin Farm And Bypass AC!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t3.rbxcdn.com/7eb39a923ff41d0bfa3dd202548319b8"
+    }  
+  },  
+{
+    "id": 113,
+    "title": "Da Hood Script (Mute Serverside)",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/Gu0GV1ay\", true))()",
+    "date": "Simple Script, Mute all server side!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://t7.rbxcdn.com/94b341800eb7183a8a61499579ec3e7d"
+    }  
+  },  
+{
+    "id": 112,
+    "title": "Anime Attack Simulator GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/SenseiJoshy/Akuma-Hub/main/Main/Akuma%20Hub.lua\", true))()",
+    "date": "Auto-Farm, Teleport, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://omgscripts.com/wp-content/uploads/2021/10/Roblox-Script-9.png"
+    }  
+  },  
+{
+    "id": 111,
+    "title": "Dragon Ball Online Generations GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/J2ENZvTb\", true))()",
+    "date": "Kill Aura, Auto-Farm Mob, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://omgscripts.com/wp-content/uploads/2021/10/Roblox-Script-10.png"
+    }  
+  },  
+{
+    "id": 110,
+    "title": "Grand Piece Online GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ArponAG/Scripts/main/gpo.lua\", true))()",
+    "date": "Devil Fruit, Local Player, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/905852824192172083/asfasfsfsafas.png"
+    }  
+  },  
+{
     "id": 109,
     "title": "Blox Fruits JRL",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/JRL-lav/Main/main/BF\", true))()",
