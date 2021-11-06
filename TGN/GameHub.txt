@@ -1,5 +1,15 @@
 [
 {
+    "id": 117,
+    "title": "Da Hood (Racemodex)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/racemodex/my-scripts/master/dahoodaimlock\", true))()",
+    "date": "Aimlock, Fake Recoil, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/906542985653665902/da_hood_raycodex_aimbot.PNG"
+    }  
+  },  
+{
     "id": 116,
     "title": "Zombie Uprising (Script)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/toskaman/fb/master/MSDOS\", true))()",
