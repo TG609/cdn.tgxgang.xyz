@@ -1,5 +1,15 @@
 [
 {
+    "id": 118,
+    "title": "Blox Fruits",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/1EQmGiQr\", true))()",
+    "date": "Autofarm - Mastery, Etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/786475894876536845/906741877938749441/unknown.png"
+    }  
+  },  
+{
     "id": 117,
     "title": "Da Hood (Racemodex)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/racemodex/my-scripts/master/dahoodaimlock\", true))()",
