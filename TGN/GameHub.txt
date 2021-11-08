@@ -1,5 +1,15 @@
 [
 {
+    "id": 119,
+    "title": "Pet Sim X",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/not-weuz/Lua/main/petsimx.lua\", true))()",
+    "date": "Autofarm - Insant collect, etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/786475894876536845/907147289997504532/PetSim0.png"
+    }  
+  },  
+{
     "id": 118,
     "title": "Blox Fruits",
     "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/1EQmGiQr\", true))()",
