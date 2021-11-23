@@ -1,5 +1,15 @@
 [
 {
+    "id": 121,
+    "title": "King Legacy GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/KingLegacy.lua\", true))()",
+    "date": "Autofarm, Auto-Stats, etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/912511290826686524/unknown.png"
+    }  
+  },  
+{
     "id": 120,
     "title": "Funky Friday GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/wally-rblx/funky-friday-autoplay/main/main.lua\", true))()",
