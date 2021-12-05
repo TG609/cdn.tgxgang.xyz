@@ -3,7 +3,7 @@
     "id": 122,
     "title": "Da Hood (Zell Hub)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxHackerProLuaStuff/zellhubnew/main/SCRIPTPRO.lua\", true))()",
-    "date": "Autofarm, Auto-Stats, etc!",
+    "date": "Aimlock OP, Anti-Stomp, etc!",
     "slug": "yikes-eaea",
     "featured_image": {
       "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/917051381301510154/unknown.png"
