@@ -1,5 +1,15 @@
 [
 {
+    "id": 122,
+    "title": "Da Hood (Zell Hub)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RobloxHackerProLuaStuff/zellhubnew/main/SCRIPTPRO.lua\", true))()",
+    "date": "Autofarm, Auto-Stats, etc!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/917051381301510154/unknown.png"
+    }  
+  },  
+{
     "id": 121,
     "title": "King Legacy GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/KingLegacy.lua\", true))()",
@@ -201,12 +211,12 @@
   },  
 {
     "id": 98,
-    "title": "Phantom Forces GUI",
-    "excerpt": "loadstring(game:HttpGet(\"https://ehub.fun/raw/script.lua\", true))()",
+    "title": "Phantom Forces (cattoware)",
+    "excerpt": "loadstring(game:HttpGet(\"https://cattoware.xyz/script.lua\", true))()",
     "date": "Aimbot, Fov, Etc!",
     "slug": "yikes-eaea",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/899093682320465951/unknown.png?width=580&height=473"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/917050995517829201/Captura.PNG"
     }  
   },  
 {
