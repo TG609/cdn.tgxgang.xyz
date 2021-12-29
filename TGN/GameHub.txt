@@ -1,5 +1,15 @@
 [
 {
+    "id": 124,
+    "title": "Da Hood Crash (SwagMode)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/22kristina/dhcrash_gen2/main/crash\", true))()",
+    "date": "OP Crash GUI!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://cdn.discordapp.com/attachments/862387521340833876/925834267970375690/1.JPG"
+    }  
+  },  
+{
     "id": 123,
     "title": "Arsenal (V.G Hub)",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub\", true))()",
