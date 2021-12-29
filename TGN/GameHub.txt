@@ -1,9 +1,9 @@
 [
 {
     "id": 124,
-    "title": "Da Hood Crash (SwagMode)",
+    "title": "Da Hood Crash GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/22kristina/dhcrash_gen2/main/crash\", true))()",
-    "date": "OP Crash GUI!",
+    "date": "OP Crash (SwagMode)!",
     "slug": "yikes-eaea",
     "featured_image": {
       "thumbnail": "https://cdn.discordapp.com/attachments/862387521340833876/925834267970375690/1.JPG"
