@@ -1,5 +1,0 @@
--- Grupo (Obligatorio): https://www.roblox.com/groups/12243982/ArcticGG#!/about
-
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic"))()
-
-
