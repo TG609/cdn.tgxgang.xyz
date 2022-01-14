@@ -1,5 +1,15 @@
 [
 {
+    "id": 125,
+    "title": "Dragon Ball Rag GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua\", true))()",
+    "date": "OP Autofarm!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/931517382533480478/dbr_script.JPG"
+    }  
+  },  
+{
     "id": 124,
     "title": "Da Hood Crash GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/22kristina/dhcrash_gen2/main/crash\", true))()",
