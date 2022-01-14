@@ -1,5 +1,15 @@
 [
 {
+    "id": 126,
+    "title": "Be Swarm Sim GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua\", true))()",
+    "date": "OP Autofarm GUI!",
+    "slug": "yikes-eaea",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/931522678920208384/Captura.JPG"
+    }  
+  },  
+{
     "id": 125,
     "title": "Dragon Ball Rag GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua\", true))()",
