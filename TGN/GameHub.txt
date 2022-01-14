@@ -1,7 +1,7 @@
 [
 {
     "id": 126,
-    "title": "Be Swarm Sim GUI",
+    "title": "Bee Swarm Sim GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua\", true))()",
     "date": "OP Autofarm GUI!",
     "slug": "yikes-eaea",
