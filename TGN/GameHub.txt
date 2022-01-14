@@ -11,7 +11,7 @@
   },  
 {
     "id": 125,
-    "title": "Dragon Ball Rag GUI",
+    "title": "Dragon Ball Rage GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/0mikami/Roblox-Scripts/main/AutoDBRObfuscated.lua\", true))()",
     "date": "OP Autofarm!",
     "slug": "yikes-eaea",
