@@ -1,5 +1,45 @@
 [
 {
+    "id": 130,
+    "title": "Blox Fruits GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/BloxFruit.lua\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "TGN Team",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/959938800786751558/unknown.png?width=831&height=467"
+    }  
+  },  
+{
+    "id": 129,
+    "title": "Zombie Uprising GUI",
+    "excerpt": "loadstring(game:HttpGet(\"https://www.6footscripts.com/Scripts/6FootHub/Hub.lua\", true))()",
+    "date": "Autofarm, Etc!",
+    "slug": "TGN Team",
+    "featured_image": {
+      "thumbnail": "https://tgnscripts.xyz/wp-content/uploads/2022/03/Miniatura-chad-740x416.png"
+    }  
+  },  
+{
+    "id": 128,
+    "title": "Bloxburg Script",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/UHsRSRg9\", true))()",
+    "date": "Autofarm OP!",
+    "slug": "TGN Team",
+    "featured_image": {
+      "thumbnail": "https://tgnscripts.xyz/wp-content/uploads/2022/03/EA-740x416.jpg"
+    }  
+  },  
+{
+    "id": 127,
+    "title": "Da Hood (CloudWare)",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/amberware/Cloudware/main/protected.lua\", true))()",
+    "date": "Aimlock OP!",
+    "slug": "TGN Team",
+    "featured_image": {
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/959937683046678558/Nuevo-proyecto-11-740x416.png"
+    }  
+  },  
+{
     "id": 126,
     "title": "Bee Swarm Sim GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua\", true))()",
