@@ -6,7 +6,7 @@
       "date":"Auto-player OP, Etc!",
       "slug":"TGN Team",
       "featured_image":{
-         "thumbnail":"hhttps://media.discordapp.net/attachments/958376189033074718/962412283638714389/script.png?width=418&height=468"
+         "thumbnail":"https://media.discordapp.net/attachments/958376189033074718/962412283638714389/script.png?width=418&height=468"
       }
    },
    {
