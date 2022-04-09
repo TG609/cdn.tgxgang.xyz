@@ -1,5 +1,15 @@
 [
 {
+    "id": 131,
+    "title": "Funky Friday",
+    "excerpt": "loadstring(game:HttpGet(\"https://pastebin.com/raw/TEXw6Cqb\", true))()",
+    "date": "Auto-player OP, Etc!",
+    "slug": "TGN Team",
+    "featured_image": {
+      "thumbnail": "hhttps://media.discordapp.net/attachments/958376189033074718/962412283638714389/script.png?width=418&height=468"
+    }  
+  },  
+{
     "id": 130,
     "title": "Blox Fruits GUI",
     "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/BloxFruit.lua\", true))()",
@@ -92,11 +102,11 @@
 {
     "id": 121,
     "title": "King Legacy GUI",
-    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xDepressionx/Free-Script/main/KingLegacy.lua\", true))()",
+    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua\", true))()",
     "date": "Autofarm, Auto-Stats, etc!",
     "slug": "TGN Team",
     "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/912511290826686524/unknown.png"
+      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/962406912631132250/unknown.png"
     }  
   },  
 {
@@ -398,16 +408,6 @@
     "slug": "TGN Team",
     "featured_image": {
       "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898675871836143616/unknown.png"
-    }  
-  },  
-{
-    "id": 87,
-    "title": "Blox Fruits (MHEE HUB)",
-    "excerpt": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BunnySalf/Hentai/main/MHEEHUB\", true))()",
-    "date": "Autofarm, Etc!",
-    "slug": "TGN Team",
-    "featured_image": {
-      "thumbnail": "https://media.discordapp.net/attachments/862387521340833876/898216671704137728/unknown.png"
     }  
   },  
 {
